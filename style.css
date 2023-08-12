@@ -1,0 +1,19 @@
+.bg{
+    background-color: #F8F9FB;
+}
+.headerarea{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.144),rgba(0, 0, 0, 0.164)),url(./images/bannar.png);
+    height:80vh;
+    background-size:cover;
+    background-position:center;
+
+    
+}
+
+.image{
+width: 20%;
+
+
+}
+
+
